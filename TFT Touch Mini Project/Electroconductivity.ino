@@ -1,6 +1,3 @@
-// Original source code: https://wiki.keyestudio.com/KS0429_keyestudio_TDS_Meter_V1.0#Test_Code
-// Project details: https://RandomNerdTutorials.com/esp32-tds-water-quality-sensor/
-
 #define TdsSensorPin 25
 #define VREF 3.3              // analog reference voltage(Volt) of the ADC
 #define SCOUNT  30            // sum of sample point
